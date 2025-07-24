@@ -5,7 +5,6 @@ import {
   ArrowRight,
   Zap,
   Link as LinkIcon,
-  Eye,
   Code,
   Play,
   CheckCircle,
@@ -222,7 +221,7 @@ export default function HowItWorks() {
                     </h4>
                     <div className="bg-gray-900 text-gray-100 p-4 rounded-lg text-xs">
                       <div className="text-green-400">
-                        // Auto-generated code{" "}
+                        {/* Auto-generated code */}
                       </div>
                       <div className="text-blue-400">
                         const handleSubmit = async () =&gt; {`{`}
